@@ -11,7 +11,7 @@
 
     <groupId>com.lgr</groupId>
     <artifactId>lgr-common-service-facade</artifactId>
-    <version>1.0.0</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>lgr-common-service-facade</name>
     <description>Demo project for Spring Boot</description>
     <packaging>jar</packaging>
