@@ -16,18 +16,4 @@
     <name>lgr-user</name>
     <packaging>war</packaging>
 
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-        <finalName>dockerfileuser</finalName>
-    </build>
-
 </project>
